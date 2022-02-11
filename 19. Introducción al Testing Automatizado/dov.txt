@@ -1,0 +1,4 @@
+Existen dos tipos de testing:
+
+Unit Testing: Evaluamos el funcionamiento de los componentes individualmente.
+Integration Testing: Validar la interacción entre los componentes y el sistema completo.

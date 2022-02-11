@@ -1,0 +1,10 @@
+SOLID son cinco principios básicos de la programación orientada a objetos que ayudan a crear software mantenible en el tiempo.
+
+SOLID significa
+
+S Single Reponsibility Principle
+O OpenClosed Principle
+L Liskov Substitution Principle
+I Interface Segregation Principle
+D Dependency Inversion Principle
+La S se trata de una clase que debe tener sólo una razón para cambiar.

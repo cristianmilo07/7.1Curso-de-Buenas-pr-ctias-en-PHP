@@ -1,0 +1,11 @@
+¡Bienvenido al Curso de Buenas Prácticas para Escritura de Código!
+
+En este curso nuestro profesor Mauro Chojrin nos enseñará una serie de técnicas que nos ayudarán a realizar aplicaciones más robustas, escalables y mantenibles en el tiempo.
+
+Nuestro profesor Mauro Chojrin es docente y consultor con PHP, trabaja en la industria IT desde 1997 desarrollando y liderando equipos.
+
+Lecturas recomendadas
+
+Curso de Introducción a PHP | Materiales
+
+https://platzi.com/clases/php/

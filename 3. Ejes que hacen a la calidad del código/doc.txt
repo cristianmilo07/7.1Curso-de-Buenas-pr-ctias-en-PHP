@@ -1,0 +1,5 @@
+
+Los siguientes elementos dotan de calidad al código:
+Legibilidad: qué tan fácil es interpretar lo que el código dice.
+Mantenibilidad: cuánto esfuerzo supondrá adaptar el código a nuevos requerimientos.
+Testeabilidad: cuánto esfuerzo supondrá realizar pruebas sobre este código.

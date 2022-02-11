@@ -1,0 +1,4 @@
+El Liskov Substitution Principle establece que cada clase que hereda de otra puede usarse como su padre sin necesidad de conocer las diferencias entre ellas. Para que pueda darse este principio debe cumplir con dos puntos:
+
+El cliente debe usar métodos de la clase padre únicamente.
+La clase hija no debe alterar el comportamiento de los métodos de la clase padre
